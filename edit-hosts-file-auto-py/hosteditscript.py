@@ -1,4 +1,6 @@
 import requests
+
+# CONFIG: your url to host file (should be plain text / raw)
 data=requests.get('https://pastebin.com/raw/P828CcAW').text
 mydata=data.split(' ')
 

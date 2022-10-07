@@ -1,28 +1,15 @@
-# tkinter-loading
+# $ small-scripts _
 
 ### Description
-A minimal GUI based loading screen in python backed by tkinter
-
-### Dependencies
-
-* python3
-* tkinter
+A repository containing some lightweight scripts for ease-of-use and tinkering purposes, for fun and profit.
 
 ### Downloading and Executing
-* Download the repo
-* Run the SplashScreen.py file
-
-## Help
-
-Your advise/help is welcome. Post it under issues
+* Just download the repo
+* And run any script of choice
 
 ## Contribution
 
 Your contrution is fully welcomed. A little contibution too helps the project improve.
-
-## Authors
-
-N/A
 
 ## License
 
